@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shxmxn-placeholder/static/css/main.e262c5e6.chunk.css",
+    "main.js": "/shxmxn-placeholder/static/js/main.338b0a5d.chunk.js",
+    "main.js.map": "/shxmxn-placeholder/static/js/main.338b0a5d.chunk.js.map",
+    "runtime-main.js": "/shxmxn-placeholder/static/js/runtime-main.97b981a2.js",
+    "runtime-main.js.map": "/shxmxn-placeholder/static/js/runtime-main.97b981a2.js.map",
+    "static/js/2.a5c5f920.chunk.js": "/shxmxn-placeholder/static/js/2.a5c5f920.chunk.js",
+    "static/js/2.a5c5f920.chunk.js.map": "/shxmxn-placeholder/static/js/2.a5c5f920.chunk.js.map",
+    "static/js/3.1c96b84c.chunk.js": "/shxmxn-placeholder/static/js/3.1c96b84c.chunk.js",
+    "static/js/3.1c96b84c.chunk.js.map": "/shxmxn-placeholder/static/js/3.1c96b84c.chunk.js.map",
+    "index.html": "/shxmxn-placeholder/index.html",
+    "static/css/main.e262c5e6.chunk.css.map": "/shxmxn-placeholder/static/css/main.e262c5e6.chunk.css.map",
+    "static/js/2.a5c5f920.chunk.js.LICENSE.txt": "/shxmxn-placeholder/static/js/2.a5c5f920.chunk.js.LICENSE.txt",
+    "static/media/logo.78fa9a4e.svg": "/shxmxn-placeholder/static/media/logo.78fa9a4e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97b981a2.js",
+    "static/js/2.a5c5f920.chunk.js",
+    "static/css/main.e262c5e6.chunk.css",
+    "static/js/main.338b0a5d.chunk.js"
+  ]
+}
