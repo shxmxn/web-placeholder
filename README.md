@@ -2,4 +2,4 @@
 
 TBC
 
-This project uses [https://github.com/facebook/create-react-app](CRA) and [https://github.com/gitname/react-gh-pages](react-gh-pages)
+This project uses [CRA](https://github.com/facebook/create-react-app) and [react-gh-pages](https://github.com/gitname/react-gh-pages)
