@@ -1,4 +1,4 @@
-# shxmxn-placeholder
+# shxmxn website placeholder
 
 TBC
 
